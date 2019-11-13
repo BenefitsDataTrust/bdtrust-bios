@@ -4,7 +4,7 @@ date: "2019-05-04"
 name: "Jaime Doe"
 title: "Benefits Outreach Specialist"
 category: "support-staff"
-featuredImage: ./images/unsplash-2.jpg
+featuredImage: unsplash-2.jpg
 ---
 <section class="section-biodetailwhybdt doc-section clear">
 		<div class="section-biodetailwhybdt-content clear"><div class=""><h3>Why Benefits Data Trust?</h3><p class="bio-whybdt">"The chance to help others in need of assistance."</p></div></div></section>
